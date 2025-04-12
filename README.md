@@ -1,6 +1,6 @@
 <!-- 최상단 배너 이미지 -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=000000&text=WELCOME%20TO%20MY%20GITHUB!&fontColor=FFFFFF&fontSize=50&fontAlign=60&fontAlignY=30&desc=I'M%20SEONGMIN%20JEON&descAlign=75&descAlignY=50&descSize=30&section=header" />
+  <img src="https://capsule-render.vercel.app/api?type=soft&height=235&color=000000&text=WELCOME%20TO%20MY%20GITHUB!&fontColor=FFFFFF&fontSize=50&fontAlign=60&fontAlignY=30&desc=I'M%20SEONGMIN%20JEON&descAlign=75&descAlignY=50&descSize=30&section=header" />
 </p>
 
 <!-- 인사말 -->
