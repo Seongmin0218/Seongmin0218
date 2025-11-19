@@ -20,6 +20,7 @@
   <img src="https://img.shields.io/badge/MaterialUI-0cb0fc?style=for-the-badge&logo=MUI&logoColor=white" />
   <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" />
   <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" />
+  <img src="https://img.shields.io/badge/D3.js-F9A03C?style=for-the-badge&logo=d3.js&logoColor=white" />
 </p>
 
 <!-- 프로젝트 소개 -->
